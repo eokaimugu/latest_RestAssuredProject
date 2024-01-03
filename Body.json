@@ -1,0 +1,11 @@
+{ 
+"name": "Samuel",
+    "location": "England",
+    "phone": "4567890123",
+    "courses": [
+        "cucumber",
+        "database",
+        "maths"
+    ],
+    "id": 12
+}
